@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./Code Coding GIF by PLCnext Technology.gif" width="800">
+  <img src="./Amfam GIF by American Family Insurance.gif" width="800">
 </p>
 <h1 align="center">Hi, I'm Lokman 👋</h1>
 
