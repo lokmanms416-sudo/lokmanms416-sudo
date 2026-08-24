@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <p align="center">
   <img src="./rain-at-night-dark-aesthetic-unpfpvs7pe8tkzol.gif" width="800">
 </p>
