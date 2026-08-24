@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<p align="center">
+  <img src="./rain-at-night-dark-aesthetic-unpfpvs7pe8tkzol.gif" width="800">
+</p>
 <!--
 **lokmanms416-sudo/lokmanms416-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
