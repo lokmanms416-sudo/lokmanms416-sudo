@@ -10,6 +10,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Python+Developer;Backend+Developer;Learning+AI;Building+Projects" alt="Typing SVG" />
 </p>
+<h2 align="center">🛠️ Tech Stack</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,github" />
+</p>
+
 <!--
 **lokmanms416-sudo/lokmanms416-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
