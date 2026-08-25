@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="./Developing Video Games Sticker by CGBOT.gif"
+    src="./Coding Home Office Sticker by ARMIS.gif"
     width="300"
     style="border-radius: 15px;"
   >
