@@ -2,7 +2,6 @@
   <img 
     src="./Coding Home Office Sticker by ARMIS.gif"
     width="300"
-    style="border-radius: 15px;"
   >
 </p>
 
