@@ -1,7 +1,7 @@
 <p align="center">
   <img 
     src="./rain-at-night-dark-aesthetic-unpfpvs7pe8tkzol.gif"
-    width="650"
+    width="300"
     style="border-radius: 15px;"
   >
 </p>
