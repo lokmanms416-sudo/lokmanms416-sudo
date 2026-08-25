@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="./rain-at-night-dark-aesthetic-unpfpvs7pe8tkzol.gif"
+    src="./Developing Video Games Sticker by CGBOT.gif"
     width="300"
     style="border-radius: 15px;"
   >
