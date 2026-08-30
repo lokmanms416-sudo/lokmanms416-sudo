@@ -2,18 +2,19 @@
   <img 
     src="./Coding Home Office Sticker by ARMIS.gif"
     width="300"
-  >
+    alt="Coding Home Office"
+  />
 </p>
 
 <h1 align="center">Hi, I'm Lokman 👋</h1>
 
 <p align="center">
-  Python Developer | Backend Developer | AI Enthusiast
+  <strong>Python Developer | Backend Developer | AI Enthusiast</strong>
 </p>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Python+Developer;Backend+Developer;Learning+AI;Building+Projects" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Python+Developer;Backend+Developer;Learning+AI;Building+Projects"
     alt="Typing SVG"
   />
 </p>
@@ -21,8 +22,17 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" alt="Tech Stack" />
 </p>
+
+<p align="center">
+  <strong>Programming:</strong> Python · Object-Oriented Programming (OOP)
+</p>
+
+<p align="center">
+  <strong>Tools:</strong> Git · GitHub · VS Code
+</p>
+
 <!--
 **lokmanms416-sudo/lokmanms416-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
