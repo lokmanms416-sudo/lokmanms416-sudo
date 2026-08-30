@@ -9,7 +9,7 @@
 <h1 align="center">Hi, I'm Lokman 👋</h1>
 
 <p align="center">
-  <strong>Python Developer | Backend Developer | AI Enthusiast</strong>
+  Python Developer | Backend Developer | AI Enthusiast
 </p>
 
 <p align="center">
@@ -22,15 +22,14 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" alt="Tech Stack" />
-</p>
-
-<p align="center">
-  <strong>Programming:</strong> Python · Object-Oriented Programming (OOP)
-</p>
-
-<p align="center">
-  <strong>Tools:</strong> Git · GitHub · VS Code
+  <img 
+    src="https://skillicons.dev/icons?i=python,git,github"
+    alt="Python, Git, GitHub"
+  />
+  <img 
+    src="https://img.shields.io/badge/OOP-Object--Oriented%20Programming-3776AB?style=flat-square"
+    alt="OOP"
+  />
 </p>
 
 <!--
